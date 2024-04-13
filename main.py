@@ -5,7 +5,7 @@ import mysql.connector
 
 def fetch_emails(mode, date_str=None):
     # IMAP settings
-    username = 'saurabhankam111@gmail.com'
+    username = ''
     password = 'rraz tzmw itvq htqj'
     imap_server = 'imap.gmail.com'
     mailbox = 'INBOX'
